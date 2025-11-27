@@ -17,13 +17,13 @@ Le fichier principal est projetIOT.ipynb
 
 Vérifie les paramètres de MQTT websocket client :
 
-Host: broker.hivemq.com
-Port: 8884 (WebSocket)
-ClientID : client123
+-Host: broker.hivemq.com
+-Port: 8884 (WebSocket)
+-ClientID : client123
 
 ### 3-Configurer HiveMQ Web Client
-Subscription topic : devices/device123/telemetry
-Publish topic : devices/device123/cmd
+-Subscription topic : devices/device123/telemetry
+-Publish topic : devices/device123/cmd
 
 Etapes : 
 1. Ouvrir HiveMQ Web Client
