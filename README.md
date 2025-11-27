@@ -13,7 +13,7 @@ Ce projet simule un capteur IoT virtuel qui :
 - Installer la bibliothèque MQTT pour Python : pip install paho-mqtt plotly
 
 ### 2-Vérifier le script
-Le fichier principal est projetIOwt.ipynb.
+Le fichier principal est projetIOT.ipynb
 
 Vérifie les paramètres de MQTT websocket client :
 
